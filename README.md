@@ -1,1 +1,1 @@
-just a repo to keep kernel configs of the past and present
+just a repo to keep kernel configs of past and present
